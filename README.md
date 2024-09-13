@@ -20,11 +20,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=deepak-godara&limit=5)
+<!--### 🔝 Top Repositories
+![](https://github-contributor-stats.vercel.app/api?username=deepak-godara&limit=5)-->
 
 
----
-<!--[![](https://visitcount.itsvg.in/api?id=deepak-godara&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=deepak-godara&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
