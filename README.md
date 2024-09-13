@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hii there, Ajay here, Final Year UG student ,CSE Dept. from Indian Institute of Information Technology Dharwad.<br>I'm currently working as advocate for the Cypher Blockchain and CapX Community .<br>Passionate backend and Web3 developer.<br>Seeking opportunities in Web3 Space.<br>Winner of EthIndia'23 in Scroll Track.<br>Love to contribute to the cool builds.<br>
+# Hi, I'm Godara Deepaksingh Satveersingh! 👋
+
+🎓 **Final Year UG Student** - Computer Science & Engineering, Indian Institute of Information Technology Dharwad  
+💻 **Skilled in Full-Stack Development and Databases**  
+🔍 **Knowledgeable in Object-Oriented Programming (OOP) and Operating Systems**  
+🏅 **Competitive Programming Enthusiast**
 
 
 ## 🌐 Socials:
